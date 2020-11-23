@@ -1,7 +1,14 @@
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
+This is my personal build for it! It's mainly for backup but feel free to use (Don't know why you would because there are better ones out there)
 
+Features
+--------
+- Scrollback support with Shift+PageUp, Shift+PageDown and Shift+MouseWheel
+- Dracula Theme
+
+This is all I need from a terminal
 
 Requirements
 ------------
